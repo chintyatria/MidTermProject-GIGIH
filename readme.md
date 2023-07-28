@@ -6,7 +6,7 @@ This setup is using mongoDB Compass
 1. Clone this repository to your local machine.
 2. Install the required dependencies by running `npm install`
 3. Ensure MongoDB is installed and running on your machine
-4. Replace `'mongodb://localhost:27017/your_database'` with your MongoDB connection string in `server.js`
+4. Replace `'mongodb://localhost:27017/your_database'` with your MongoDB connection string in `.env`
 5. Start the server by running `npm start`. The server should now be running at `http://localhost:5000`
 
 ## Database Structure
